@@ -1,0 +1,109 @@
+body {
+    
+}
+
+
+.header1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.logo {
+  margin-right: 80px;  
+  font-size: 35px;
+  padding-right: 35px;
+  padding-left: 20px;
+}
+
+.logo-part {
+    color: #42576a;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 35px;
+
+}
+
+.menus {
+    font-size: 20px;
+    font-style: normal;
+    padding-right: 20px;
+}
+
+.slider-tags {
+    position: relative;
+    bottom: 75px;
+    font-size: 55px;
+    font-weight: bolder;
+}
+
+.question {
+    text-align: center;
+    padding-top: 35px;
+}
+
+.part-wise {
+    color: grey;
+    font-weight: normal;
+}
+
+.card-part {
+    margin: auto;
+    border-radius: 50%;
+    width: 40%;
+    
+}
+
+.between {
+    text-align: center;
+}
+
+.cards {
+    padding-top: 20px;
+}
+
+.read-more {
+    background-color: rgb(133, 154, 204);
+    color: white;
+    border-radius: 10%;
+}
+
+.line {
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+
+.work {
+    text-align: center;
+}
+
+.container {
+    padding-top: 30px;
+    align-items: center;
+}
+
+.subhead {
+    padding-bottom: 20px;
+}
+
+.desc {
+    color: gray;
+}
+
+.items {
+    text-align: center;
+}
+
+.headings {
+    color: #42576a;
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+
+
+footer {
+   margin-top: 30px;
+}
+.footer-logo {
+    font-size: 20px;
+}
+
